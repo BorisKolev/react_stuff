@@ -1,0 +1,9 @@
+.card--image {
+    height: 100px;
+    width: 100px;
+}
+
+.card--favorite {
+    height: 30px;
+    width: 30px;
+}
